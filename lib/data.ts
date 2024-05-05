@@ -39,7 +39,7 @@ export const experiencesData = [
     location: "Remote, Canada",
     description:
       "I provide precise and currated data to train LLMs by creating schemas and relations for Database, solving SQL queries, resolving React & Tailwind UI issues and build better generative developer tools",
-    icon: React.createElement(FaReact),
+    icon: React.createElement(CgWorkAlt),
     date: "04/2024 - Present",
   },
   {
@@ -55,7 +55,7 @@ export const experiencesData = [
     location: "Ahmedabad, India",
     description:
       "I worked as a full-stack developer using React.js, Node.js, PostgreSQL. Integrated 3rd party payment gateways, Used webhooks for automated notification, Implemented cronjob to regularly sync database with backup",
-    icon: React.createElement(FaReact),
+    icon: React.createElement(CgWorkAlt),
     date: "07/2022 - 06/2023",
   },
   {
