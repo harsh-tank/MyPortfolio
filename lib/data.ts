@@ -35,6 +35,14 @@ export const links = [
 
 export const experiencesData = [
   {
+    title: "Contract Software Engineer @ DataCurve",
+    location: "Remote, Canada",
+    description:
+      "I provide precise and currated data to train LLMs by creating schemas and relations for Database, solving SQL queries, resolving React & Tailwind UI issues and build better generative developer tools",
+    icon: React.createElement(FaReact),
+    date: "04/2024 - Present",
+  },
+  {
     title: "Master's in Computer Science @ Concordia ",
     location: "Montreal, Canada",
     description:
