@@ -35,7 +35,7 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Contract Software Engineer @ DataCurve",
+    title: "Contract Software Engineer @ Shipd",
     location: "Remote, Canada",
     description:
       "I provide precise and currated data to train LLMs by creating schemas and relations for Database, solving SQL queries, resolving React & Tailwind UI issues and build better generative developer tools",
